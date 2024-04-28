@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+pandas
+anydata==0.1.1
+dbt-core==1.7.13
+dbt-duckdb==1.7.4
+duckdb==0.10.2
